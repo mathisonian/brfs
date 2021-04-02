@@ -1,6 +1,6 @@
 {
   "name": "brfs-node-15",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "browserify fs.readFileSync() static asset inliner",
   "main": "index.js",
   "bin": {
